@@ -57,3 +57,4 @@ Things I want / could be added later
 - Vent Rando
   - Audio Lure Rando 
 - Animatronic Availability Rando
+- Additional Victory Conditions
