@@ -56,3 +56,4 @@ Things I want / could be added later
   - The Office Mask, not the Good Ending masks
 - Vent Rando
   - Audio Lure Rando 
+- Animatronic Availability Rando
