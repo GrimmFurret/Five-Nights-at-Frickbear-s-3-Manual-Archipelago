@@ -42,3 +42,16 @@ This requires all 3 _Evil Ending_ items, all 4 _Animatronic Masks_, and _Talbert
 7.) You can then upload the zip to host the game as you wish. Archipelago's upload hosting page can be found [here](https://archipelago.gg/uploads).
 
 8.) Connect using the [Manual Client](https://github.com/ManualForArchipelago/Manual/blob/main/docs/play/connect-client.md) on the Archipelago Launcher
+
+## Possible future additions:
+Things I want / could be added later
+- Movement Rando
+  - Crouching, Sprinting in Salvage Sections (Limits certain Animatronic / Ending Items Availability)
+- Doors / Lights Rando
+  - Individual or Grouped items that enable the use of doors / door lights
+- Flashlight Rando
+- Camera Rando
+- Mask Rando
+  - The Office Mask, not the Good Ending masks
+- Vent Rando
+  - Audio Lure Rando 
