@@ -21,6 +21,7 @@ This requires all 3 _Evil Ending_ items, all 4 _Animatronic Masks_, and _Talbert
 
 ## Requirements to Play
 - [Five Nights at Frickbear's 3](https://gamejolt.com/games/frickbears3/930477)
+  - Must have access to all minigames / game boards
 - Archipelago (Website)
 - Archipelago (Launcher)
 - Archipelago (Manual Client)
