@@ -1,7 +1,7 @@
 # Manual Five Nights at Frickbear's 3 Randomizer
 A Manual Archipelago randomizer for _Five Nights at Frickbear's 3 + Four Layers Down_.
 
-It allows for the "Randomization" of aspects in the game, such as Items, Upgrades, and Minigames using [Archipelago](https://archipelago.gg).  
+It allows for the "Randomization" of aspects in the game, such as Ending-Based Items, Mendo's Shop, and Minigames using [Archipelago](https://archipelago.gg).  
 These can be distributed across a Multiworld to enable items and progression to be shared across multiple different games.
 
 ## What can be Randomized?
